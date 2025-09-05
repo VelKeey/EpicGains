@@ -1,0 +1,13 @@
+# WordPress
+wp-config.php
+wp-content/uploads
+wp-content/cache
+wp-content/upgrade
+
+# System fajlovi
+.DS_Store
+Thumbs.db
+
+# IDE fajlovi
+.vscode/
+.idea/
